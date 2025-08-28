@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/supriz/static/css/main.e6c13ad2.css",
+    "main.js": "/supriz/static/js/main.46192d74.js",
+    "static/js/453.453ee2d6.chunk.js": "/supriz/static/js/453.453ee2d6.chunk.js",
+    "index.html": "/supriz/index.html",
+    "main.e6c13ad2.css.map": "/supriz/static/css/main.e6c13ad2.css.map",
+    "main.46192d74.js.map": "/supriz/static/js/main.46192d74.js.map",
+    "453.453ee2d6.chunk.js.map": "/supriz/static/js/453.453ee2d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.46192d74.js"
+  ]
+}
